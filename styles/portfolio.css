@@ -178,3 +178,26 @@
   .resume button{
     margin-top: 50px;
   }
+  /* footer styles */
+  footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 115px;
+  }
+  .footer-column{
+    width: 50%;
+  }
+  footer input[type="text"], footer textarea{
+    width: 100%;
+    height: 64px;
+    border-radius: 5px;
+    background-color: #FFF;
+    color: #757575;
+    border: none;
+    display: block;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+  }
+  .footer-icon{
+    margin-right: 24px;
+  }
